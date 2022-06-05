@@ -1,7 +1,7 @@
 # R Programming Basics
 ## Solved problems and program from R Programming exercises.
 
-#### Problems solved in ```POE.r``` file are as Follows:
+#### Problems solved in ```POE.R``` file are as Follows:
 
 1. Write a R program to take input from the user (name and age) and display the values. Also print the version of R installation.
 2. Write a R program to get the details of the objects in memory.
@@ -32,3 +32,5 @@
 
 
 ## *R Programming Exercise covered in Manual are also included with problem statements*
+
+  *All the datasets needed are also included in this repository.*
