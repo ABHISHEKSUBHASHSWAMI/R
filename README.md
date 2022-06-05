@@ -1,4 +1,4 @@
-# R Programming
+# R Programming Basics
 ## Solved problems and program from R Programming exercises.
 
 #### Problems solved in ```POE.r``` file are as Follows:
@@ -28,4 +28,7 @@
 22. Write an R script to find subset of dataset by using subset (), aggregate () functions on mtcars dataset.
 23. Create dataframe empdetails (empid, name, salary, dept). Fill the data. Use dept as factor. Create another dataframe and merge both of them.
 24. Load mtcars data. Perform summary, display column names ,analyze data using plot,scatter plot. Change size and shape.
-25. Create a list .Perform following operation on list , access first and last element in list, update list , add two list ,subtract two list.
+25. Create a list .Perform following operation on list , access first and last element in list, update list , add two list, subtract two list.
+
+
+## *R Programming Exercise covered in Manual are also included with problem statements*
